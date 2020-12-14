@@ -1,0 +1,1 @@
+export QUERY_STRING="/greet&/greet@com.mblinn.oo.tinyweb.example.GreetingController@com.mblinn.oo.tinyweb.example.GreetingView&com.mblinn.oo.tinyweb.example.LoggingFilter&arg=value&***Marc,Test"
